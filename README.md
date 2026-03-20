@@ -1,4 +1,4 @@
-# L-n – Svensk Lönehandbok 2025–2026
+# Lön – Svensk Lönehandbok 2025–2026
 
 En samlad kunskapsbas för svenska löner med fokus på åren 2025–2026. Innehåller dokumentation om lagar, regler, processer, skattetabeller, semesterregler, föräldralön, kollektivavtal och mycket mer.
 
