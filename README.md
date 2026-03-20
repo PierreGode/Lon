@@ -25,6 +25,7 @@ En samlad kunskapsbas för svenska löner med fokus på åren 2025–2026. Inneh
 | [nyheter-2025-2026.md](nyheter-2025-2026.md) | Förändringar, lönetransparensdirektivet, basbelopp |
 | [formaner.md](formaner.md) | Bilförmån, friskvård, julgåvor, fri kost |
 | [utlagg-och-reseersattning.md](utlagg-och-reseersattning.md) | Milersättning, traktamente, representation |
+| [handels.md](handels.md) | Handelsavtalet 2024–2026 – fullständig genomgång |
 
 ---
 

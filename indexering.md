@@ -20,6 +20,7 @@ Välkommen till den svenska lönehantboken. Denna samling innehåller uppdaterad
 | 12 | [Nyheter 2025–2026](nyheter-2025-2026.md) | Förändringar, nyheter och uppdateringar |
 | 13 | [Förmåner](formaner.md) | Skattepliktiga och skattefria förmåner |
 | 14 | [Utlägg och reseersättning](utlagg-och-reseersattning.md) | Traktamente, milersättning och utlägg |
+| 15 | [Handelsavtalet](handels.md) | Fullständig genomgång av Handelsavtalet 2024–2026 |
 
 ---
 
@@ -69,6 +70,9 @@ Välkommen till den svenska lönehantboken. Denna samling innehåller uppdaterad
 | Tillväxtverket | [tillvaxtverket.se](https://www.tillvaxtverket.se) | Stöd till arbetsgivare |
 | Prevent | [prevent.se](https://www.prevent.se) | Arbetsmiljö |
 | Visma | [visma.se](https://www.visma.se) | Lönesystem och guider |
+| Handels | [handels.se](https://www.handels.se) | Handelsanst. förbund – avtal, lönefrågor |
+| Svensk Handel | [svenskhandel.se](https://www.svenskhandel.se) | Arbetsgivarorg. för handeln |
+| Fora | [fora.se](https://www.fora.se) | SAF-LO pension och AFA-försäkringar |
 
 ---
 
@@ -89,4 +93,4 @@ Välkommen till den svenska lönehantboken. Denna samling innehåller uppdaterad
 
 ---
 
-*Senast uppdaterad: mars 2026. Källor: Skatteverket, Försäkringskassan, Riksdagen, Medlingsinstitutet, SCB.*
+*Senast uppdaterad: mars 2026. Källor: Skatteverket, Försäkringskassan, Riksdagen, Medlingsinstitutet, SCB, Handels, Svensk Handel.*
