@@ -1,15 +1,23 @@
-# Handelsavtalet – Fullständig Genomgång 2024–2026
+# Handelsavtalen – Fullständig Genomgång 2025–2027
+
+Denna sida behandlar de två huvudsakliga kollektivavtalen för handelsbranschen:
+
+1. **Detaljhandelsavtalet** – för butiks-, kontors- och lagerpersonal/chaufförer (arbetare)
+2. **Handelns Tjänstemannaavtal** – för tjänstemän
+
+---
+
+# DEL 1: Detaljhandelsavtalet 2025–2027
 
 ## Om avtalet
 
-**Handelsavtalet** är kollektivavtalet för anställda inom handeln i Sverige. Det sluts mellan:
+**Detaljhandelsavtalet** är kollektivavtalet för butiks- och kontorspersonal samt lagerpersonal och chaufförer inom detaljhandeln. Det sluts mellan:
 
-- **Handelsanställdas förbund (Handels)** – LO-förbundet som organiserar butiksanställda, lagerarbetare och övriga anställda inom handeln
-- **Svensk Handel** – arbetsgivarorganisationen för handel och e-handel
+- **Handelsanställdas förbund (Handels)** – fackförbundet
+- **Svensk Handel** – arbetsgivarorganisationen
 
-Avtalet reglerar anställnings- och lönevillkor för **ca 170 000 anställda** inom detaljhandel, partihandel, agenturhandel och angränsande verksamheter.
-
-**Nuvarande avtalsperiod**: 1 maj 2024 – 30 april 2026  
+**Avtalsperiod**: 1 april 2025 – 31 mars 2027  
+**Undertecknat**: 3 april 2025  
 **Tillgängligt via**: Handels (handels.se) och Svensk Handel (svenskhandel.se)
 
 ---
@@ -18,20 +26,13 @@ Avtalet reglerar anställnings- och lönevillkor för **ca 170 000 anställda** 
 
 ### Vem omfattas?
 
-Handelsavtalet gäller för **arbetare** (ej tjänstemän) anställda hos arbetsgivare som är anslutna till Svensk Handel inom följande branscher och verksamheter:
-
-- **Detaljhandel**: butiksanställda, kassapersonal, varuhus, stormarknader, specialbutiker
-- **Partihandel**: lager och distribution hos partihandelsföretag
-- **Agenturhandel**: anställda hos agenter och kommissionärer
-- **E-handel och distribution**: lager, pick & pack, kundtjänst kopplade till handelsverksamhet
-- **Servicehandel**: kiosker, bensinstation-butiker (om ej annat avtal gäller)
+Detaljhandelsavtalet gäller för **arbetare** (butiks-, kontors- och lagerpersonal samt chaufförer) anställda hos företag anslutna till Svensk Handel inom detaljhandeln. Lager- och distributionsarbete omfattas under förutsättning att lagerenheten är belägen inom butiken eller betjänar endast en butik.
 
 ### Undantag
 
-Följande yrkeskategorier omfattas **inte** av Handelsavtalet:
-- Tjänstemän (dessa täcks av Detaljhandelstjänstemannaavtalet med Unionen)
-- Arbetsgivare utanför Svensk Handel (om de inte tecknat hängavtal)
-- Restaurang- och cateringverksamhet (separat avtal med Visita/HRF)
+Följande omfattas **inte** av Detaljhandelsavtalet:
+- Tjänstemän (dessa täcks av Handelns Tjänstemannaavtal med Unionen/Akademikerförbunden – se Del 2)
+- Arbetsgivare utanför Svensk Handel (om inte inkopplade via särskild framställan)
 
 ---
 
@@ -39,28 +40,25 @@ Följande yrkeskategorier omfattas **inte** av Handelsavtalet:
 
 ### Anställningsformer
 
-Anställning sker i enlighet med LAS (1982:80) och avtalets egna regler:
-
 | Anställningsform | Beskrivning |
 |-----------------|-------------|
-| Tillsvidareanställning (fast) | Huvudregeln; ska tillämpas om ej skäl för tidsbegränsning finns |
-| ALVA (Allmän visstidsanst.) | Max 12 månader under 5 år, sedan automatisk konvertering till fast |
-| Vikariat | Max 24 månader under 5 år; sedan automatisk konvertering |
-| Säsongsanställning | Tidsbegränsad, avtalad för viss säsong |
-| Provanställning | Max 6 månader; kan avbrytas med 14 dagars varsel |
+| Tillsvidareanställning (fast) | Huvudregeln; heltid är huvudregel, deltid med hög sysselsättningsgrad eftersträvas |
+| Tidsbegränsad anställning | Vikariat eller vid tillfällig ökning av arbetskraftsbehovet. Max 1 år under 5 år → automatisk konvertering; vikariat max 3 år under 5 år → konvertering |
+| Säsongsanställning | Tidsbegränsad, avtalad för viss period |
+| Provanställning | Max 6 månader; avbryts med 14 dagars skriftlig underrättelse |
 
-### Deltidsanställning
+### Heltid och deltid
 
-- Deltidsanställd har rätt att utöka sin sysselsättningsgrad om arbetsgivaren behöver mer personal (anmälningsplikt)
-- Minsta garanterade sysselsättningsgrad ska anges i anställningsbeviset
-- Mertid (timmar utöver schemalagd tid men inom heltidsram): betalas med ordinarie timlön
+- Heltid är huvudregel. Parternas ambition är att normen ska bli heltid eller deltid med högre sysselsättningsgrad.
+- Arbetsgivaren bör planera så att tillsvidareanställda med anställningen som huvudsaklig sysselsättning erbjuds arbete i **minst 30 timmar per vecka**.
+- Deltidsanställda har företrädesrätt till anställning med högre sysselsättningsgrad (skriftlig anmälan krävs).
 
 ### Anställningsbevis
 
-Arbetsgivaren ska lämna skriftligt anställningsbevis inom **1 månad** från anställningens start. Beviset ska innehålla:
+Arbetsgivaren ska vid anställningens tillträdande överlämna skriftligt anställningsbevis med uppgift om:
 - Anställningsform och ev. prövotid
-- Sysselsättningsgrad och arbetstid
-- Lön och löneform
+- Arbetstidsmått
+- Lön och branschvana
 - Arbetsplats
 - Kollektivavtalets namn
 
@@ -72,57 +70,84 @@ Arbetsgivaren ska lämna skriftligt anställningsbevis inom **1 månad** från a
 
 | Typ | Timmar per vecka |
 |-----|-----------------|
-| Heltid | 40 timmar/vecka |
-| Deltid | Enligt anst.bevis (t.ex. 25, 32, 38 h/v) |
+| Heltid | **38 timmar och 15 minuter/vecka** i genomsnitt |
+| Deltid | Enligt anställningsbeviset |
 
-Ordinarie arbetstid schemaläggs inom ramen för **arbetstidsmåttet** per 4-veckorsperiod (160 timmar).
+Arbetstiden genomsnittsberäknas under en beräkningsperiod om **maximalt 52 veckor**.
+
+> **Viktigt**: Timlönen beräknas som 1/166 av månadslönen. Heltidsanställd uppskattas till 166 timmar per månad.
 
 ### Schemaläggning
 
-- Arbetsgivaren ansvarar för att upprätta arbetsschema
-- Schema ska anslås minst **2 veckor** (14 dagar) i förväg
-- Ändring av fastlagt schema kräver **7 dagars** varsel (om ej annat avtalats lokalt)
-- Kortare varsel: extra ersättning (se OB-tillägg nedan) kan utgå
+- En arbetsvecka får omfatta **högst fem arbetsdagar**
+- Arbetsgivaren ska fastställa arbetstidsschema **minst en månad** i förväg
+- Schema ska omfatta hela beräkningsperioden, dock minst **sex månader**
+- Ändringar av arbetstiden ska meddelas **minst en månad** i förväg. Arbetstagaren kan inom 3 dagar motsätta sig ändringar med angivande av skäl.
+- Arbetspass ska vara minst **3 timmar** (undantag: rehabilitering, minderårig skolelev)
+- Om möjligt ska arbetspass för högre sysselsättningsgrad vara minst **5 timmar**
 
-### Dygnsvila och veckovila
+### Vila och ledighet
 
-- Dygnsvila: minst **11 sammanhängande timmar** per 24 h
-- Veckovila: minst **36 sammanhängande timmar** per 7 dagar (normalt ledigt sön)
-- Raster: vid arbetsdag > 6 timmar ska rast om minst 30 min ges
+- Arbetstagare ska vara ledig **16 sammanhängande lördagar och söndagar** per kalenderår (jämnt fördelat)
+- Raster: vid arbetsdag > 6 timmar ska rast om minst 30 min ges (måltidsuppehåll tillåts i undantagssituationer, räknas då som arbetstid)
 
-### Heltidsnorm och sysselsättningsgrad
+### Bemanningsplanering
 
-Handelsavtalet innehåller heltidsnormen: deltidsanställning är undantag; arbetsgivaren ska motivera deltid. Sedan 2021 gäller stärkt rätt till utökning av arbetstid.
+En gång per kalenderår ska arbetsgivaren genomföra en övergripande bemanningsplanering i samråd med fackklubb/fackombud. Planeringen ska omfatta öppettider, bemanningsbehov, kvälls-/helgarbete, tidsbegränsade anställningar m.m.
+
+### Arbetstagares önskemål
+
+Tillsvidareanställd kan årligen senast 30 september inkomma med skriftligt önskemål om:
+- 5 kalenderdagar nästkommande år då arbetstagaren inte önskar vara schemalagd
+- Förläggning av tidig morgon/sen kvällstid
+- Förläggning av lör, sön, helg, midsommarafton, julafton, nyårsafton
+
+Önskemål om ledighet på julafton eller midsommarafton ska tillgodoses **minst vartannat år**.
 
 ---
 
 ## § 4 Övertid och mertid
 
-### Övertid (heltidsanställda)
+### Övertidsersättning för heltidsanställda
 
-Övertid uppstår för heltidsanställda när den anst. arbetar **utöver schemalagda timmar** (>40 h/v).
+Övertid uppstår för heltidsanställda vid arbete **utöver schemalagd ordinarie arbetstid**.
 
-**Ersättning:**
+#### T.o.m. 31 mars 2026
+
+| Övertidstyp | Ersättning (procentuellt tillägg på timlön) |
+|------------|---------------------------------------------|
+| Första 2 timmarna per dag före/efter ordinarie arbetstid | **50 %** |
+| Övrig övertid på vardagar samt efter kl. 20 mån–fre | **70 %** |
+| Övertid på dag som annars vore fridag mån–fre | **70 %** |
+| Övertid efter kl. 12 på lördag samt jul-, nyårs- och midsommarafton | **100 %** |
+| All övertid söndag, helgdag, fridag som infaller på lördag/storhelgsafton | **100 %** |
+
+#### Fr.o.m. 1 april 2026
 
 | Övertidstyp | Ersättning |
 |------------|-----------|
-| Vardagsövertid (enkel, timme 1–2/dag) | 50 % av timlönen ovanpå ordinarie timlön |
-| Vardagsövertid (dubbel, från timme 3+/dag) | 100 % av timlönen ovanpå ordinarie |
-| Övertid helger och storhelger | 100 % ovanpå ordinarie timlön |
+| Första 2 timmarna per dag före/efter ordinarie arbetstid | **35 %** (sänkt från 50 %) |
+| Övrig övertid vardagar samt efter kl. 20 mån–fre | **70 %** |
+| Övertid fridag mån–fre | **70 %** |
+| Lör efter kl. 12 samt jul-, nyårs-, midsommarafton | **100 %** |
+| Söndag, helgdag | **100 %** |
 
-**Kompensationsledighet** kan ges istället för övertidsersättning om den anst. och arbetsgivare enas:
-- 1 övertidstimme = 1,5 timmars ledighet (enkel övertid)
-- 1 övertidstimme = 2 timmars ledighet (dubbel övertid)
+Timlönen beräknas som **1/166 av månadslönen** inklusive fasta lönetillägg.
 
-**Övertidsbegränsning (ATL + avtal):**
-- Allmän övertid: max 200 h/år
-- Extra övertid (med lokal överenskommelse): ytterligare max 150 h/år
+> **Obs**: Om rätt till övertidsersättning och OB-ersättning sammanfaller har arbetstagaren **endast rätt till den procentuellt sett högsta** ersättningen.
 
-### Mertid (deltidsanställda)
+**Kompensationsledighet** (t.o.m. 31 mars 2026):
+- 1 övertidstimme med 50 % = 1 timme 30 minuters ledighet
+- Fr.o.m. 1 april 2026: 1 övertidstimme med 35 % = 1 timme 21 minuters ledighet
+- 1 övertidstimme med 70 % = 1 timme 45 minuters ledighet
+- 1 övertidstimme med 100 % = 2 timmars ledighet
 
-Deltidsanst. som arbetar utöver sin schema men inom heltidsmåttet:
-- Mertid ersätts med **ordinarie timlön** (ingen OB om inte OB-tid)
-- Om mertiden regelbundet uppgår till mer än 10 h/v i 3 månader: rätt att kräva höjd sysselsättningsgrad
+### Mertidsersättning för deltidsanställda
+
+- Deltidsanställd får **övertidsersättning** för arbetstid som överstiger **38 timmar 15 minuter per vecka** (om det inte utförts på ordinarie schemalagd tid).
+- Fr.o.m. 1 april 2026 införs **mertidsersättning**: kontant mertidsersättning utges med samma procentsatser som övertidsersättning (se 9.2).
+- Mertidsarbete kan inte beordras av arbetsgivaren.
+- Upp till 15 minuters arbete per dag i anslutning till befintligt pass kan kompenseras med motsvarande ledighet efter överenskommelse.
 
 ---
 
@@ -130,112 +155,135 @@ Deltidsanst. som arbetar utöver sin schema men inom heltidsmåttet:
 
 ### Löneformer
 
-Handelsavtalet tillåter följande löneformer:
-1. **Tidlön (timlön/månadslön)** – den vanligaste formen
-2. **Ackordslön** – betalning per prestation (sällsynt i handel)
-3. **Kombinerad lön** – tidlön + provisionsbaserat tillägg
+1. **Månadslön** – heltidsanställda avlönas med månadslön
+2. **Timlön** – deltidsanställda avlönas med timlön (rätt till månadslön om arbetstiden genomsnittsberäknas i minst 11 veckor)
+3. **Prestations- eller provisionslön** – kan tillämpas lokalt
 
-### Lönerevision och löneutveckling
-
-Lönerevisioner genomförs **1 maj** varje avtalår:
-
-| Avtalår | Lönehöjning (avtalad) | Kommentar |
-|---------|----------------------|-----------|
-| 1 maj 2024 | 3,6 % | Generell höjning av minimilöner och individer |
-| 1 maj 2025 | 2,8 % (prognos) | Baserat på avtalets andra år |
-
-Lönerevision sker i förhandling mellan arbetsgivaren och den lokala fackklubben. Om lokal förhandling inte ger resultat gäller **stupstock** (automatisk generell höjning enligt avtalets nivå).
-
-### Minimilöner 2024–2025
-
-Handelsavtalet fastställer **minimilöner per ålderskategori och anställningstid**:
-
-#### Timlöner (minimilön)
-
-| Kategori | Timlön från 1 maj 2024 |
-|---------|------------------------|
-| Under 18 år, år 1 | 75,75 kr/h |
-| Under 18 år, år 2+ | 79,00 kr/h |
-| 18 år, år 1 i branschen | 110,25 kr/h |
-| 18 år, år 2 i branschen | 114,75 kr/h |
-| 18 år, år 3+ (erfaren) | 118,50 kr/h |
-| Erfaren, 3+ år totalt | 122,00 kr/h |
-| Nyckelposition / ansvarig | Lokalt förhandlad (minst +10 %) |
-
-*Timlönen × 174 (genomsnittl. antal arbetstimmar/mån) ger månadslöneequivalenten.*
-
-#### Månadslöner (minimilön, omräknade från timlön × 174 h)
-
-| Kategori | Månadslön från 1 maj 2024 |
-|---------|--------------------------|
-| Under 18 år, år 1 | ca 13 180 kr/mån |
-| Under 18 år, år 2+ | ca 13 746 kr/mån |
-| 18 år, år 1 i branschen | ca 19 184 kr/mån |
-| 18 år, år 2 i branschen | ca 19 967 kr/mån |
-| 18 år, år 3+ (erfaren) | ca 20 619 kr/mån |
-| Erfaren, 3+ år | ca 21 228 kr/mån |
-
-> **Viktigt**: Minimilönerna är **golv**. Inga anst. får ha lägre lön. Faktiska löner är ofta högre, särskilt i storstäder och för erfarna medarbetare.
-
-#### Lönehöjning 1 maj 2025 (ca +2,8 %)
-
-| Kategori | Timlön från 1 maj 2025 (prognos) |
-|---------|----------------------------------|
-| Under 18 år, år 1 | ca 77,87 kr/h |
-| 18 år, år 1 | ca 113,34 kr/h |
-| 18 år, erfaren 3+ år | ca 121,81 kr/h |
-| Erfaren 3+ år totalt | ca 125,42 kr/h |
-
-*Exakta belopp fastställs i lönerevisionen 1 maj 2025.*
-
-### Löneberäkning timlön → månadslön
+### Timlönens beräkning
 
 ```
-Månadslön = Timlön × (Årsarbetstid / 12)
-Årsarbetstid (heltid) = 52 veckor × 40 h = 2 080 h
-Genomsnittligt per månad = 2 080 / 12 = 173,33 h ≈ 174 h
+Timlön = 1/166 av månadslönen (inklusive fasta lönetillägg)
+Månadslön för deltidsanst. med timlön = timmar/vecka × timlön × 166 / 38,25
 ```
+
+### Minimilöner
+
+#### 1 april 2025 – 31 mars 2026
+
+| Ålder / Branschvana | Månadslön (kr) | Timlön (kr) |
+|---------------------|---------------|-------------|
+| 16 år | 16 846 | 101,48 |
+| 17 år | 17 256 | 103,95 |
+| 18 år | 25 814 | 155,51 |
+| 19 år | 26 134 | 157,43 |
+| 1 års branschvana (efter fyllda 18) | 26 718 | 160,95 |
+| 2 års branschvana | 27 054 | 162,98 |
+| 3 års branschvana | 28 344 | 170,75 |
+
+#### 1 april 2026 – 31 mars 2027
+
+| Ålder / Branschvana | Månadslön (kr) | Timlön (kr) |
+|---------------------|---------------|-------------|
+| 16 år | 17 324 | 104,36 |
+| 17 år | 17 734 | 106,83 |
+| 18 år | 26 626 | 160,40 |
+| 19 år | 26 946 | 162,33 |
+| 1 års branschvana (efter fyllda 18) | 27 530 | 165,84 |
+| 2 års branschvana | 27 866 | 167,87 |
+| 3 års branschvana | 29 156 | 175,64 |
+
+> **Branschvana** räknas från fyllda 18 år i block om kalendermånader (min 44 h/mån krävs). Uppflyttning vid 12, 24 resp. 36 branschvanemånader. Gymnasieprogram med branschinriktning medräknas med 1 år, Hantverksprogram 2 år.
+
+> **Under 16 år**: 15 år = minst 80 % av 16-årsminimilön, 14 år = minst 70 %.
+
+### Anställningstidstillägg
+
+Till arbetstagare som efter fyllda 18 år varit anställd **5 år inom samma företag** utges:
+
+| Period | Månadstillägg | Timtillägg |
+|--------|--------------|-----------|
+| Fr.o.m. 1 april 2025 | 155 kr | 0,93 kr |
+| Fr.o.m. 1 april 2026 | 160 kr | 0,96 kr |
+
+### Lönetillägg för kvalificerade uppgifter
+
+Lönetillägg bör fastställas för arbetstagare med mer kvalificerade arbetsuppgifter, utökat ansvar och/eller yrkesbevis. Garanterad lägsta höjning:
+
+| Period | Höjning |
+|--------|---------|
+| 1 april 2025 | 3,4 % |
+| 1 april 2026 | 3,0 % |
+
+### Lönerevision
+
+Lönerevisioner genomförs **1 april** varje år:
+
+#### Generell löneökning
+
+| Revisionstidpunkt | Kr/mån (heltid) | Kr/timme |
+|-------------------|----------------|----------|
+| 1 april 2025 | 734 kr | 4,42 kr |
+| 1 april 2026 | 669 kr | 4,03 kr |
+
+#### Lokalt löneutrymme (utöver generell höjning, ej för anst. under 18 år)
+
+| Revisionstidpunkt | Kr/mån (heltid) | Kr/timme |
+|-------------------|----------------|----------|
+| 1 april 2025 | 314 kr | 1,89 kr |
+| 1 april 2026 | 286 kr | 1,72 kr |
+
+Lönerevision sker genom lokal förhandling mellan arbetsgivaren och den lokala fackliga organisationen. Om lokal förhandling inte begärts sker lönerevisionen utan lokal förhandling (generell höjning + generellt utlagt lokalt utrymme).
+
+**Tidsplan lönerevision:**
+
+| | 2025 | 2026 |
+|---|------|------|
+| Lokal förhandling begärs senast | 19 maj 2025 | 9 februari 2026 |
+| Central förhandling begärs senast | 11 augusti 2025 | 13 april 2026 |
+
+Om de centrala parterna inte kan enas ska det lokala löneutrymmet läggas ut generellt.
 
 ---
 
-## § 6 OB-tillägg (Obekväm Arbetstid)
+## § 6 OB-ersättning (Obekväm Arbetstid)
 
-Handelsavtalet innehåller specifika OB-tillägg för arbete utanför "vanlig" dagtid vardagar. OB är ett **tillägg ovanpå** ordinarie timlön.
+Detaljhandelsavtalet använder **procentuella OB-tillägg** baserade på timlönen (1/166 av månadslön + fasta tillägg).
 
-### OB-tabell 2024–2025
+### OB-tabell
 
-| Tid | OB-tillägg per timme |
-|-----|---------------------|
-| Måndag–fredag, kl. 06:00–07:00 (tidig morgon) | 30,75 kr/h |
-| Måndag–fredag, kl. 20:00–24:00 (sen kväll) | 30,75 kr/h |
-| Måndag–fredag, kl. 00:00–06:00 (natt) | 61,75 kr/h |
-| Lördag, kl. 13:00–24:00 | 30,75 kr/h |
-| Lördag, kl. 00:00–06:00 | 61,75 kr/h |
-| Söndag, hela dagen (kl. 00:00–24:00) | 82,25 kr/h |
-| Storhelg (röd dag) hela dagen | 113,00 kr/h |
+| Tid | OB-tillägg (% av timlön) |
+|-----|--------------------------|
+| Måndag–fredag kl. 18:15–20:00 | **50 %** |
+| Måndag–fredag efter kl. 20:00 | **70 %** |
+| Lördagar efter kl. 12:00 | **100 %** |
+| Söndagar och helgdagar (hela dagen) | **100 %** |
 
-> **Storhelger** = nyårsdagen, trettondagen, långfredagen, påskafton/påskdagen/annandag påsk, Kristi himmelsfärd, pingst, nationaldagen (6 juni), midsommarafton/midsommardagen, allhelgonadagen, julafton/juldagen/annandag jul
+> Med lördagar jämställs jul-, nyårs- och midsommarafton.
 
-**OB-tillägg höjs** i takt med avtalets lönerevision (3,6 % fr.o.m. 1 maj 2024 och 2,8 % fr.o.m. 1 maj 2025).
+> **Obs**: Om arbetstagare har rätt till övertidsersättning eller mertidsersättning på tid då OB-ersättning ska betalas har arbetstagaren **enbart rätt till den procentuellt sett högsta** ersättningen.
 
-### Uppdaterade OB-satser 1 maj 2025 (prognos +2,8 %)
+### Kompensationsledighet istället för kontant OB
 
-| Tid | OB-tillägg per timme (från maj 2025) |
-|-----|--------------------------------------|
-| Måndag–fredag, tidig morgon/sen kväll | ca 31,61 kr/h |
-| Natt (mån–fre + lör 00–06) | ca 63,48 kr/h |
-| Söndag (hela dagen) | ca 84,55 kr/h |
-| Storhelg | ca 116,16 kr/h |
+Heltidsanställd kan kompenseras med ledighet istället för kontant OB:
 
-### Beräkning – exempel
+| OB-nivå | Kompensationsledighet per arbetad timme |
+|---------|----------------------------------------|
+| 50 % OB | 30 minuter |
+| 70 % OB | 45 minuter |
+| 100 % OB | 1 timme |
 
-**Situation**: Butiksanst., timlön 125 kr, arbetar söndag 10:00–18:00 (8 h)
+Utbyte av OB mot kompensationsledighet för söndagar/helgdagar kräver överenskommelse med lokal facklig organisation eller arbetstagaren. Kan förläggas i komp-bank efter lokal överenskommelse.
+
+### Beräkningsexempel
+
+**Situation**: Butiksanställd, månadslön 28 000 kr, arbetar söndag 10:00–18:00 (8 h)
 
 | Post | Beräkning | Belopp |
 |------|-----------|--------|
-| Ordinarie timlön | 8 h × 125 kr | 1 000 kr |
-| OB söndagstillägg | 8 h × 82,25 kr | 658 kr |
-| **Totalt** | | **1 658 kr** |
+| Timlön | 28 000 / 166 | 168,67 kr |
+| Ordinarie lön söndag | 8 h × 168,67 kr | 1 349 kr |
+| OB 100 % | 8 h × 168,67 kr × 100 % | 1 349 kr |
+| **Totalt** | | **2 698 kr** |
 
 ---
 
@@ -243,94 +291,94 @@ Handelsavtalet innehåller specifika OB-tillägg för arbete utanför "vanlig" d
 
 ### Antal semesterdagar
 
-Handelsavtalet ger **fler** semesterdagar än lagens minimum:
+Semester utges enligt semesterlagen (1977:480). Rätt till semesterlön tjänas in under intjänandeåret **1 april – 31 mars** före semesteråret.
 
-| Ålder / Anst.tid | Semesterdagar/år |
-|------------------|-----------------|
-| Alla (minimum) | 25 dagar (SemL) |
-| Anst. fr.o.m. intjänandeåret de fyller 40 år | 28 dagar |
-| Anst. fr.o.m. intjänandeåret de fyller 50 år | 30 dagar |
-| Specifika lokala avtal | upp till 31 dagar |
-
-### Semestertillägg
-
-För anst. med **fast månadslön** gäller semesterlönetillägg om:
-- **0,5 %** av månadslönen per semesterdag
-
-**Exempel**: Månadslön 22 000 kr, 25 semesterdagar:
-- Semestertillägg per dag: 22 000 × 0,5 % = 110 kr
-- Semestertillägg totalt (25 dagar): 2 750 kr
-
-### Procentregeln för timlönsanställda
-
-- Semesterlön = **13 %** av semestergrundande lön (28 dagar)
-- Eller **12 %** om 25 dagar gäller
-
-### Semesterlönegrundande frånvaro
-
-Se Semesterlagen (1977:480) + avtalets komplettering:
-- Sjukdom: 180 dagar per anst.
-- Föräldraledighet: 120 dagar per barn
-- VAB: hela frånvaron
+| Regel | Semesterdagar |
+|-------|--------------|
+| Lagstadgat minimum | 25 dagar |
 
 ### Huvudsemester
 
-- Minst 4 sammanhängande veckor (20 arbetsdagar) ska förläggas under perioden **1 juni – 31 augusti**
-- Arbetsgivaren varslar senast **1 april** om semestertiden
+Den ledighetsperiod som avses i 12 § SemL kan påbörjas i den kalendervecka då **1 juni** infaller och avslutas i den kalendervecka då **31 augusti** infaller.
+
+### Beräkning av semesterlön
+
+Semesterlönen utgör **13 %** av semesterlöneunderlaget (lön under intjänandeåret). I semesterlöneunderlaget inräknas inte semesterlön, sjuklön eller permitteringslön.
+
+#### Garantibelopp per betald semesterdag
+
+| Kategori | Fr.o.m. 1 april 2025 | Fr.o.m. 1 april 2026 |
+|----------|----------------------|----------------------|
+| Arbetstagare som fyllt 18 år (minst 3 mån anst.) | 1 470 kr/dag | 1 515 kr/dag |
+| Arbetstagare med 3 års branschvana | 1 740 kr/dag | 1 790 kr/dag |
+
+> Garantibeloppet säkerställer att semesterlönen aldrig understiger dessa nivåer. För deltidsanställda proportioneras beloppet i förhållande till arbetade timmar (timmar / 1 796).
+
+### Semesterlönegrundande frånvaro
+
+Semesterlöneunderlaget ska ökas med belopp motsvarande den inkomst arbetstagaren skulle haft vid normal omfattning (inklusive rörliga lönedelar och OB-ersättning) under semesterlönegrundande frånvaro (sjukdom, föräldraledighet m.m. enligt 17–17b §§ SemL).
+
+### Semester vid tidsbegränsad anställning
+
+Tidsbegränsad anställning som inte avser eller varar längre tid än tre månader ger inte rätt till semesterledighet utan till semesterersättning. Semesterersättning ska inte ingå i lönen.
+
+### Helgdagar under semester
+
+När semesterledighet är fem dagar eller längre räknas schemalagd helgdagsafton eller helgdag som infaller mån–fre som semesterdag.
 
 ---
 
 ## § 8 Sjuklön
 
-### Karensavdrag (dag 1)
+Sjuklön betalas enligt lagen om sjuklön (1991:1047). Sjuklöneperioden omfattar de **första 14 kalenderdagarna**.
 
-- Avdrag = **20 % av genomsnittlig veckolön** (SjLL + avtal)
-- Beräknas: Månadslön × 12 / 52 × 20 %
+### Karensavdrag
 
-### Sjuklön dag 2–14
+Karensperioden utgör de första 20 % av överenskommen genomsnittlig veckoarbetstid. Under karensperioden betalas inte sjuklön.
 
-Handelsavtalet förbättrar SjLL:s miniminivå:
+Karensavdrag görs vid högst **10 tillfällen** under en 12-månadersperiod.
 
-| Dag | Ersättning (Handelsavtalet) |
+### Sjuklön dag 1–14
+
+| Dag | Ersättning |
 |-----|-----------------------------|
-| Dag 1 | Karensavdrag (20 % av veckolön dras) |
-| Dag 2–14 | **90 %** av ordinarie lön (lagens minimum: 80 %) |
+| Karensperiod (20 % av veckoarbetstid) | Ingen sjuklön |
+| Resterande sjuklöneperiod t.o.m. dag 14 | **80 %** av löneavdrag (enl. § 13) |
 
-> **Praktisk skillnad**: Handelsavtalet ger 10 procentenheter mer i sjuklön dag 2–14 jämfört med lagstadgad minimum.
+**Arbetstagare med månadslön**: Sjuklönen = 80 % av löneavdrag enligt § 13.  
+**Arbetstagare med timlön**: Sjuklönen = 80 % av den lön som skulle utgetts.
+
+Dessutom utges 80 % av OB-ersättning och övriga tillägg (ej övertid) som arbetstagaren skulle varit berättigad till under sjuklöneperioden (efter karensperioden).
 
 ### Sjuklön dag 15 och framåt
 
-Från dag 15 tar Försäkringskassan över:
-- FK betalar sjukpenning: 77,6 % av SGI/dag
-- AGS (Avtalsgruppsjukförsäkring via AFA Försäkring): kompletteringstillägg till ca 90 % av lönen under dag 15–90
+Från dag 15 tar Försäkringskassan över med sjukpenning. Komplettering sker via:
+- **AGS** (Avtalsgruppsjukförsäkring via AFA Försäkring): komplettering till ca 90 % av lön
+
+### Sjukanmälan och läkarintyg
+
+- Sjukanmälan ska göras **snarast möjligt** till arbetsgivaren
+- Läkarintyg krävs fr.o.m. den **sjunde kalenderdagen** efter sjukanmälan
+- Arbetsgivaren kan vid särskilda skäl (t.ex. upprepad korttidsfrånvaro) begära läkarintyg från tidigare dag
 
 ---
 
-## § 9 Föräldraledighet och föräldralön
+## § 9 Föräldraledighet
 
 ### Rätt till ledighet
 
-Föräldraledighetslagen (1995:584) gäller fullt ut. Handelsavtalet ger tillägg:
+Föräldraledighetslagen (1995:584) gäller fullt ut.
 
-### Föräldralönetillägg
+### Anmälan om föräldraledighet
 
-| Period | Tillägg från arbetsgivaren |
-|--------|---------------------------|
-| Upp till 4 månader (om anst. minst 1 år) | **10 %** av den ordinarie månadslönen ovanpå Försäkringskassans föräldrapenning |
+- Om arbetstagaren vill vara ledig under huvudsemesterperioden: anmälan senast **1 mars**
+- I övriga fall: anmälan minst **2 månader** före ledighetens början (eller så snart som möjligt)
 
-**Villkor för föräldralönetillägg:**
-- Minst **1 års** sammanhängande anställning hos samma arbetsgivare vid ledighetens start
-- Tillägget betalas ut under de 4 månader föräldrapenning tas ut (behöver inte vara sammanhängande)
-- Gäller för **vardera** förälder (inte transfererbart)
+### Föräldrapenningtillägg (FPT)
 
-**Exempel – föräldralönetillägg**:
-- Månadslön: 24 000 kr
-- Tillägg: 24 000 × 10 % = 2 400 kr/mån
-- Arbetsgivaren betalar 2 400 kr/mån i upp till 4 månader
+Arbetstagare kan få **FPT** (Föräldrapenningtillägg) enligt **Försäkring om föräldrapenningtillägg** via AFA Försäkring. Information om villkor och belopp finns på AFA Försäkrings hemsida (afaforsakring.se).
 
-### Semesterintjänande under föräldraledighet
-
-Enligt Handelsavtalet: 120 semesterlönegrundande dagar per barn (= SemL standard).
+> **Notera**: FPT administreras via avtalsförsäkringssystemet, inte som en direkt utbetalning från arbetsgivaren.
 
 ---
 
@@ -338,218 +386,396 @@ Enligt Handelsavtalet: 120 semesterlönegrundande dagar per barn (= SemL standar
 
 ### Avtalspension SAF-LO
 
-Handelsanst. (arbetare) under Handelsavtalet omfattas av **SAF-LO-avtalspensionen** administrerad av **Fora**:
+Arbetare under Detaljhandelsavtalet omfattas av **SAF-LO-avtalspensionen** administrerad av **Fora**.
 
 | Lönenivå | Avsättning |
 |---------|-----------|
-| Lön upp till 7,5 IBB/år (= 604 500 kr/år 2025) | **4,5 %** av bruttolön |
+| Lön upp till 7,5 IBB/år | **4,5 %** av bruttolön |
 | Lön överstigande 7,5 IBB | **30 %** av den överskjutande lönen |
 
-- Arbetsgivaren betalar in premier kvartalsvis till Fora
-- Den anst. väljer förvaltare bland Foras godkända alternativ (AMF, Folksam, Skandia m.fl.)
-- **Standard** (om ingen aktiv valhandling): AMF Aktiefond eller Fora-förvalt alternativ
+Förstärkt pensionsavsättning gäller enligt överenskommelse mellan Svensk Handel och Handels från 1 april 2017.
 
-### AFA Försäkringar (kollektivavtalade)
+### Avtalsförsäkringar
 
-Anst. under Handelsavtalet har rätt till följande AFA-försäkringar:
+Följande överenskommelser mellan Svenskt Näringsliv och LO gäller:
 
 | Försäkring | Täckning |
 |-----------|---------|
-| **AGS** (Avtalsgruppsjukförsäkring) | Komplettering vid sjukskrivning dag 15–365: tillägg till ca 90 % av lön |
+| **TGL** (Tjänstegrupplivförsäkring) | Ersättning till efterlevande vid dödsfall |
+| **AGB** (Avgångsbidrag) | Vid uppsägning pga arbetsbrist |
+| **AGS** (Avtalsgruppsjukförsäkring) | Komplettering vid sjukskrivning fr.o.m. dag 15 |
 | **TFA** (Trygghetsförsäkring vid arbetsskada) | Ersättning vid olycksfall eller yrkessjukdom |
-| **TGL** (Tjänstegrupplivsförsäkring) | Engångersättning till efterlevande vid dödsfall (2–6 prisbasbelopp) |
-| **AGS-KL** | Ej tillämplig (gäller kommunalt) |
+| **FPT** (Föräldrapenningtillägg) | Tillägg vid föräldraledighet |
+| **Omställningsförsäkring** | Stöd vid omställning |
 
-**Premien betalas av arbetsgivaren** via Fora (samordnat med pensionsavsättningarna).
+**Premien betalas av arbetsgivaren** via Fora.
 
 ---
 
 ## § 11 Uppsägning och anställningens upphörande
 
-### Uppsägningstider (LAS + avtalets förstärkning)
+### Uppsägningstider
 
-Handelsavtalet förstärker LAS för **arbetsgivares** uppsägningstider:
+**Arbetsgivarens uppsägningstid:**
 
-| Anställningstid | Arbetsgivarens uppsägningstid |
-|----------------|------------------------------|
-| 0–6 månader (provanst.) | 14 dagar |
-| 6 månader – 2 år | 1 månad |
-| 2–4 år | 2 månader |
-| 4–6 år | 3 månader |
-| 6–8 år | 4 månader |
-| 8–10 år | 5 månader |
-| 10+ år | 6 månader |
+| Anställningstid vid företaget | Uppsägningstid |
+|-------------------------------|----------------|
+| Mindre än 2 år | 1 månad |
+| Fr.o.m. 2 år till 4 år | 2 månader |
+| Fr.o.m. 4 år till 6 år | 3 månader |
+| Fr.o.m. 6 år till 8 år | 4 månader |
+| Fr.o.m. 8 år till 10 år | 5 månader |
+| Fr.o.m. 10 år | 6 månader |
 
-**Den anst. uppsägningstid:**
+**Arbetstagarens uppsägningstid**: Ömsesidig uppsägningstid om **1 månad** (om inte längre avtalats).
 
-| Anställningstid | Anst:s uppsägningstid |
-|----------------|----------------------|
-| 0–2 år | 1 månad |
-| 2–5 år | 2 månader |
-| 5+ år | 3 månader |
+### Provanställnings upphörande
+
+Provanställning upphör **14 dagar** efter att endera parten lämnat skriftlig underrättelse.
+
+### Tidsbegränsad anställning
+
+Part som önskar avbryta en tidsbegränsad anställning före avtalad tid ska lämna besked **minst 14 dagar** i förväg. Arbetsgivarens rätt att avbryta gäller inte efter att 6 månader förflutit.
+
+### Förändring av sysselsättningsgrad vid omorganisation
+
+Vid omorganisation som innebär sänkt sysselsättningsgrad har arbetstagaren rätt till **omställningstid** med oförändrad lön:
+
+| Anställningstid | Omställningstid |
+|----------------|----------------|
+| < 6 år | Samma som uppsägningstid |
+| Fr.o.m. 6 år till 8 år | 5 månader |
+| Fr.o.m. 8 år till 10 år | 7 månader |
+| Fr.o.m. 10 år | 9 månader |
 
 ### Turordning vid driftsinskränkning
 
-- LAS-reglerna gäller (sist in – sist ut)
-- Handelsavtalet medger att arbetsgivare kan undanta **upp till 3 nyckelpersoner** från turordningen (förstärkt rätt sedan LAS-reformen 2022)
-- Den lokala fackklubbens godkännande krävs vid undantag
-
-### Lönefordringar vid avslut
-
-- Semesterersättning för ej uttagna semester-/sparade dagar betalas senast vid **sista löneutbetalningstillfället** (eller inom 14 dagar)
-- Avräkningsgrundande semesterlön beräknas per intjänandedag
+LAS gäller. Arbetsgivaren och den lokala fackliga organisationen kan komma överens om turordning med hänsyn till även andra faktorer. I avsaknad av överenskommelse fastställs turordning per driftsenhet.
 
 ---
 
-## § 12 Fackliga rättigheter
+## § 12 Permission
 
-### Facklig tid
+Permission är kort ledighet med bibehållen lön under **högst en dag**. Vid nära anhörigs begravning (alt. urnnedsättning) kan permissionen även omfatta högst **två resdagar**.
 
-Fackliga representanter (förtroendevalda) har rätt till **betald ledighet** för:
-- Lokala förhandlingar
-- Fackliga utbildningar (enligt Ledighetslagen 1974:981)
-- Information till anst. (under raster eller efter arbetstid)
+**Villkor**: Minst 6 månaders anställning krävs (kortare anst. kan beviljas tjänstledighet utan lön).
 
-### Information och förhandlingsrätt (MBL)
+### Permissionsanledningar
 
-Arbetsgivaren är skyldig att:
-- Informera facket **löpande** om viktiga förändringar
-- Förhandla **primärt** (§ 11 MBL) innan beslut om väsentliga förändringar
-- Ge facket insyn i lönepolitiken
+- Eget bröllop
+- Egen 50-årsdag
+- Förstagångsbesök hos läkare/tandläkare vid akut sjukdom eller olycksfall
+- Besök vid sjukvårdsinrättning efter remiss från av arbetsgivaren anvisad läkare
+- Nära anhörigs dödsfall
+- Nära anhörigs begravning / urnnedsättning
+- Plötsligt svårt sjukdomsfall hos hemmaboende nära anhörig
 
-### Lokal facklig organisation
-
-- Arbetsplatser med 5+ anst. kan bilda **facklig klubb**
-- Fackklubben representerar anst. i lokala förhandlingar
+> **Nära anhörig**: make/maka, sambo, barn, barnbarn, syskon, föräldrar, svärföräldrar, mor-/farföräldrar.
 
 ---
 
-## § 13 Löneavdrag och avdragsregler
+## § 13 Löneavdrag vid frånvaro
 
-### Tillåtna löneavdrag
+### Heltidsanställd – frånvaro hel dag
 
-Arbetsgivaren får göra avdrag för:
-- **Frånvaro utan lön** (obetald ledighet, ej beviljad ledighet)
-- **Karensavdrag** vid sjukdom
-- **Semesteravräkning** om mer semester tagits ut än intjänats
-- Skattemässiga avdrag (förmedlas via Skatteverkets tabell)
+I kalendermånad med max 22 schemalagda arbetsdagar: avdrag med **4,6 %** av månadslönen + fasta lönetillägg per frånvarodag. Avdrag görs inte för arbetsfri söndag, helgdag eller schemalagd fridag.
 
-### Beräkning av frånvaroavdrag
+Vid fler än 22 schemalagda dagar: avdrag per dag = (månadslön + fasta tillägg) / antal schemalagda dagar.
 
-**Dagsavdrag** (vid frånvaro hel dag):
-```
-Dagsavdrag = Månadslön / Genomsnittl. arbetsdagar per månad
-Genomsnittl. arbetsdagar ≈ Årsarbetstimmar / (8 h/dag × 12 månader)
-För heltid 40 h/v: 2 080 h/år ÷ 8 h/dag = 260 dagar ÷ 12 = 21,67 dagar/mån
-```
+### Frånvaro del av dag
 
-**Timavdrag** (vid frånvaro del av dag):
-```
-Timavdrag = Timlön × antal frånvarotimmar
-```
+Avdrag per timme = **1/166** av månadslönen + fasta lönetillägg.
+
+### Deltidsanställd
+
+**Hel dag**: dagslön = (månadslön + fasta tillägg) / antal schemalagda dagar i månaden.  
+**Del av dag**: timlön = 38,25 × (månadslön + fasta tillägg) / (166 × antal timmar per vecka).
 
 ---
 
-## § 14 Arbetstidsbank och flex
+## § 14 Restid och traktamenten
 
-Handelsavtalet tillåter, via lokal överenskommelse, **arbetstidsbank** (tidbank):
-- Ackumulerade övertids- och mertidstimmar placeras i banken
-- Tas ut som ledighet vid ömsesidigt lämplig tidpunkt
-- Maximal balans i banken: avtalat per lokal ö.k. (vanligen 40–80 h)
-- Vid anst.avslut: kvarliggande timmar betalas ut som lön
+### Restidsersättning
 
----
+Restidsersättning per timme = **60 %** av timlönen, dock högst 6 timmar per kalenderdygn. Helgtid (fredag 18:00 – måndag 06:00 samt dag före helgdagsafton/helgdag): **75 %** av timlönen.
 
-## § 15 Lärlingsanställning och ungdomsanställning
+### Måltidsersättning
 
-### Lärlingsavtal
+| Period | Belopp |
+|--------|--------|
+| Fr.o.m. 1 april 2025 | 119 kr |
+| Fr.o.m. 1 april 2026 | 122 kr |
 
-Handelsavtalet har regler för lärlingsanställning:
-- Lärling < 18 år: minimilön som per åldersgruppen (se § 5)
-- Lärlingsperiod: max 2 år
-- Lärling ska ha handledare och utbildningsplan
+Utges vid resa minst 4 timmar (hela måltidsrasten under resan) eller kvällsmål vid resa mer än 3 timmar efter arbetstids slut. Ersättningen inkluderar semesterlön.
 
-### Sommarjobb och feriearbete
+### Traktamente och övernattning
 
-- Under 18 år: lägre minimilön gäller (se lönebilagan)
-- Reducerade arbetsgivaravgifter (10,21 %) för anst. under 18 år
-- Max sysselsättningsgrad i skoltid: begränsas av skolplikten och AFS 2012:3 (barnarbete)
+Vid flerdygnsförrättning utanför ordinarie verksamhetsort betalas logikostnad och traktamente enligt skatteverkets regler. Dessutom utgår **särskilt researvode**: 150 kr (helt traktamente) / 75 kr (halvt traktamente).
+
+### Egen bil i tjänst
+
+Ersättning utgår enligt Skatteverkets allmänna råd avseende skattefri bilersättning efter tre mils färd.
 
 ---
 
-## § 16 Restid och resekostnader
+## § 15 Inhyrd arbetskraft
 
-### Resekostnader i tjänsten
-
-- Arbetsgivaren betalar styrkt resekostnad för tjänsteresor
-- Milersättning: 25 kr/mil (skattefri, enligt IL 12 kap. 5 §) vid privat bil
-
-### Inställelsetid vid oväntat tillkallande
-
-Om anst. kallas in utanför ordinarie schema med kortare än 24 h varsel:
-- Minimum **4 timmars** ersättning (även om arbetspasset är kortare)
-- OB-tillägg tillkommer om arbetet är förlagt till OB-tid
+Parterna anser att bemanningsföretag kan vara ett komplement till ordinarie verksamhet. Vid anlitande av bemanningsföretag krävs förhandling enligt MBL (11 och 38 §§). Specifika regler gäller vid inhyrning i samband med företrädesrätt till återanställning (max 5 veckors inhyrning utan förhandling efter uppsägningstidens utgång).
 
 ---
 
-## § 17 Lokala avtal och förhandling
-
-### Möjliga lokala avvikelser
-
-Handelsavtalet tillåter lokal förhandling om:
-- Arbetstidsmått och schemaläggning (t.ex. komprimerade veckor)
-- Löneformer (t.ex. lokal prestationsbonus)
-- Semesterförmåner utöver avtalets golv
-- Flexibel arbetstid (flextidsavtal)
-- Arbetstidsbank
-
-### Lokal förhandlingsordning
-
-1. Frågan tas upp av endera parten
-2. Lokal förhandling genomförs (arbetsgivare + facklig representant)
-3. Om enighet nås: lokalt protokoll upprättas
-4. Om ej enighet: central förhandling hos Handels och Svensk Handel
-
----
-
-## § 18 Tolkningsfrågor och tvister
-
-### Tvistelösningsordning
-
-1. **Lokal förhandling**: Arbetsgivaren och den lokala fackklubben förhandlar
-2. **Central förhandling**: Handels och Svensk Handel förhandlar centralt
-3. **Skiljenämnd**: Arbetsdomstolen (AD) om ej lösning
-4. **AD-dom**: Arbetsdomstolens dom är slutgiltig
-
-### Preskriptionstid
-
-- Krav på utbetalning av lön eller ersättning preskriberas efter **2 år**
-- Krav på semesterersättning: **2 år** efter att kravet uppstod
-
----
-
-## § 19 Avtalets ikraftträdande och giltighetstid
+## § 16 Avtalets giltighetstid
 
 | Punkt | Datum |
 |-------|-------|
-| Avtalet gäller från | 1 maj 2024 |
-| Avtalet gäller till | 30 april 2026 |
-| Automatisk förlängning | Med 1 månad om ej uppsagt |
-| Uppsägningstid | 3 månader innan avtalstidens utgång |
+| Avtalet gäller från | **1 april 2025** |
+| Avtalet gäller till | **31 mars 2027** |
+| Uppsägningstid | 2 månaders ömsesidig |
+| Framställan om förhandling senast | 31 januari 2027 |
+| Automatisk förlängning | 1 år om ej uppsagt; med 7 dagars ömsesidig uppsägningstid |
 
 ---
 
-## Löneadministratörens checklista – Handelsavtalet
+# DEL 2: Handelns Tjänstemannaavtal 2025–2027
 
-- [ ] Kontrollera rätt **lönebilagebelopp** utifrån anst. ålder och tid i branschen
-- [ ] Verifiera att OB-tillägg läggs till korrekt (tid, dag, helgdag)
-- [ ] Kontrollera övertidsberäkning (50 %/100 % ovanpå lönen)
-- [ ] Beräkna semesterlönetillägg korrekt (0,5 % eller 13 % procentregel)
-- [ ] Kontrollera sjuklönenivå: **90 %** dag 2–14 (ej lagens 80 %)
-- [ ] Säkerställ att föräldralönetillägg betalas (10 % × 4 månader, om villkoren uppfylls)
-- [ ] Betala SAF-LO-premie till Fora kvartalsvis
-- [ ] Rapportera korrekt i arbetsgivardeklarationen (AGD) per individ
-- [ ] Bevaka avtalsperioden (löper ut 30 april 2026)
+## Om avtalet
+
+**Handelns Tjänstemannaavtal** är kollektivavtalet för **tjänstemän** inom handeln. Det sluts mellan:
+
+- **Svensk Handel** – arbetsgivarorganisationen
+- **Unionen** – tjänstemannafacket
+- **Akademikerförbunden** – samarbetsorganisation för akademikerförbund
+
+**Avtalsperiod**: 1 maj 2025 – 30 april 2027  
+**Undertecknat**: 12 maj 2025
+
+---
+
+## Anställningsformer (tjänstemän)
+
+| Anställningsform | Beskrivning |
+|-----------------|-------------|
+| Tillsvidareanställning | Huvudregeln |
+| Vikariat | Vid vikariebehov; min 7 dagars anställningstid (kortare med överenskommelse) |
+| Avtalad visstid | Tidsbegränsad; min 7 dagars anställningstid |
+| Provanställning | Max 6 månader; avbryts med 1 månads skriftligt besked |
+
+### Omvandlingsregel
+
+Vikariat/avtalad visstid övergår till tillsvidareanställning vid **36 månaders** sammanlagd anställningstid under en 5-årsperiod.
+
+---
+
+## Arbetstid (tjänstemän)
+
+Ordinarie arbetstid: **40 timmar per helgfri vecka** i genomsnitt (begränsningsperiod högst 3 månader, kan förlängas till 12 månader via lokal överenskommelse).
+
+Tjänstemän undantas från arbetstidslagen (1982:673) och regleras istället av Bilaga 1 (Arbetstidsavtalet).
+
+---
+
+## Övertidskompensation (tjänstemän)
+
+### Rätt till övertidskompensation
+
+Tjänstemän har rätt till övertidskompensation om inte annan överenskommelse träffats (t.ex. för chefer med okontrollerbar arbetstid som istället får högre lön och/eller extra semesterdagar).
+
+### Ersättningens storlek
+
+| Typ | Beräkning | Komp.ledighet |
+|-----|-----------|---------------|
+| Övertid mån–fre kl. 06–20 | Månadslön / **94** per timme | 1,5 timme per övertidstimme |
+| Övertid på annan tid (kväll, helg) | Månadslön / **72** per timme | 2 timmar per övertidstimme |
+
+Övertid på arbetsfria vardagar samt midsommar-, jul- och nyårsafton jämställs med övertid på "annan tid".
+
+---
+
+## Förskjuten arbetstid (tjänstemän – motsvarar OB)
+
+Tjänstemannaavtalet har ersättning för **förskjuten arbetstid** (arbete förlagt utanför ordinarie dagtid):
+
+| Tid | Ersättning per timme |
+|-----|---------------------|
+| Mån–fre kl. 18–24 | Månadslön / 600 |
+| Mån–lör kl. 00–07 | Månadslön / 400 |
+| Lör kl. 07 – sön kl. 24 | Månadslön / 300 |
+| Trettondagen, 1 maj, nationaldagen, Kr. himmelsfärd, alla helgons dag | Månadslön / 300 |
+| Storhelger (skärtorsdag kv, pingst-, midsommar-, julafton m.fl.) | Månadslön / 150 |
+
+> Ersättning för förskjuten arbetstid och övertidsersättning kan **inte** ges samtidigt.
+
+---
+
+## Lön och lönerevision (tjänstemän)
+
+### Lönerevisionstidpunkt
+
+Lönerevision sker **1 maj** varje år (2025 och 2026).
+
+### Lönemodeller
+
+Tjänstemannaavtalet har tre lönemodeller:
+1. **Bilaga 3** – Centralt löneavtal (generell + individuell fördelning)
+2. **Bilaga 4** – Centralt löneavtal med löneöversyn (individuell fokus)
+3. **Bilaga 5** – Lokalt löneavtal (helt lokal lönebildning)
+
+### Löneutrymme (Bilaga 3 – Centralt löneavtal)
+
+| År | Generell höjning | Individuell garanti |
+|----|-----------------|---------------------|
+| 1 maj 2025 | 550 kr/mån | 550 kr/mån (heltid) |
+| 1 maj 2026 | 520 kr/mån | 520 kr/mån (heltid) |
+
+### Löneutrymme (Bilaga 4 – med löneöversyn)
+
+| År | Utrymme (% av fasta löner) | Individuell garanti |
+|----|---------------------------|---------------------|
+| 1 maj 2025 | **2,5 %** | 550 kr/mån (heltid) |
+| 1 maj 2026 | **2,2 %** | 520 kr/mån (heltid) |
+
+### Löneutrymme (Bilaga 6 – Akademikerförbunden)
+
+Vid central oenighet fastställs nivån till:
+- 1 maj 2025: **3,0 %** av fast kontant månadslön
+- 1 maj 2026: **2,7 %** av fast kontant månadslön
+
+### Lägsta löner (tjänstemän)
+
+| Kategori | 1 maj 2025 – 30 april 2026 | 1 maj 2026 – 30 april 2027 |
+|----------|---------------------------|---------------------------|
+| Fyllt 18 år, < 1 års anställningstid | 21 767 kr/mån | 22 355 kr/mån |
+| 1 års sammanlagd anställningstid | 23 927 kr/mån | 24 573 kr/mån |
+
+Introduktionslön (18–23 år, nyanställd utan erfarenhet): lägst 75 % av lägsta lön 18 år, max 12 månader.
+
+---
+
+## Semester (tjänstemän)
+
+### Antal semesterdagar
+
+- 25 dagar enligt semesterlagen
+- Möjlighet till **3 eller 5 extra semesterdagar** via överenskommelse om att avstå övertidsersättning (§ 4.1.1)
+
+### Intjänandeår och semesterår
+
+Intjänandeåret: 1 april – 31 mars. Semesteråret: efterföljande 12-månadersperiod. Kan efter överenskommelse sammanfalla.
+
+### Semestertillägg
+
+- **0,8 %** av månadslön (aktuell vid semestertillfället) per betald semesterdag
+- **0,5 %** av summan av rörlig lönedel under intjänandeåret per betald semesterdag
+
+### Semesterersättning
+
+4,6 % av aktuell månadslön per outtagen betald semesterdag + semestertillägg.
+
+---
+
+## Sjuklön (tjänstemän)
+
+### Dag 1–14
+
+| Period | Avdrag/ersättning |
+|--------|-------------------|
+| Karensavdrag (20 % av veckoarbetstid) | månadslön × 12,2 / (52 × veckoarbetstid) per timme |
+| Dag 1–14 efter karens | Sjukavdrag: 20 % × månadslön × 12,2 / (52 × veckoarbetstid) per timme |
+
+### Dag 15 och framåt
+
+Lönegräns = 10 × prisbasbeloppet / 12 (49 000 kr/mån för 2025).
+
+| Lön | Sjukavdrag per dag |
+|-----|-------------------|
+| ≤ lönegränsen | 90 % × månadslön × 12 / 365 |
+| > lönegränsen | 90 % av lönegräns + 10 % av överskjutande, allt × 12 / 365 |
+
+### Sjuklöneperiodens längd
+
+| Kategori | Sjuklön fr.o.m. dag 15 t.o.m. |
+|----------|------------------------------|
+| Anställd minst 1 år (grupp 1) | Dag 90 (max 105 dagar/12 mån) |
+| Övriga (grupp 2) | Dag 45 |
+
+---
+
+## Föräldraledighet och föräldralön (tjänstemän)
+
+### Föräldralön
+
+Tjänstemän har rätt till **föräldralön** utöver Försäkringskassans föräldrapenning. Belopp och villkor regleras i avtalets § 11.6.
+
+Föräldralön utbetalas månadsvis vid ordinarie löneutbetalningstillfälle under ledighetsperioden (de första månaderna av ledigheten).
+
+### Anmälan
+
+Om ledighet under huvudsemesterperioden: anmälan senast **1 mars**.
+
+---
+
+## Uppsägning (tjänstemän)
+
+### Från arbetsgivarens sida
+
+| Anställningstid | Uppsägningstid |
+|----------------|----------------|
+| Mindre än 2 år | 1 månad |
+| Fr.o.m. 2 år till 4 år | 2 månader |
+| Fr.o.m. 4 år till 6 år | 3 månader |
+| Fr.o.m. 6 år till 8 år | 4 månader |
+| Fr.o.m. 8 år till 10 år | 5 månader |
+| Fr.o.m. 10 år | 6 månader |
+
+Förlängd uppsägningstid (+6 mån) om tjänstemannen vid uppsägning pga arbetsbrist uppnått 55 års ålder och har 10 års sammanhängande anställningstid.
+
+### Från tjänstemannens sida
+
+| Anställningstid | Uppsägningstid |
+|----------------|----------------|
+| Mindre än 2 år | 1 månad |
+| Fr.o.m. 2 år | 2 månader |
+
+### Provanställning
+
+Avbryts med **1 månads** skriftligt besked i förtid, eller **2 veckors** besked vid prövotidens utgång.
+
+---
+
+## Giltighetstid (Tjänstemannaavtalet)
+
+| Punkt | Datum |
+|-------|-------|
+| Avtalet gäller från | **1 maj 2025** |
+| Avtalet gäller till | **30 april 2027** |
+| Uppsägningstid | 3 månader före giltighetstidens utgång |
+| Automatisk förlängning | 1 år om ej uppsagt |
+
+---
+
+## Löneadministratörens checklista – Handelsavtalen
+
+### Detaljhandelsavtalet (arbetare)
+- [ ] Kontrollera rätt **minimilönenivå** efter ålder och branschvana (1 april-datum)
+- [ ] Tillämpa korrekt **arbetstidsmått**: 38 h 15 min/vecka, divisor 166
+- [ ] Verifiera att OB-tillägg beräknas som **procent av timlön** (50/70/100 %)
+- [ ] Kontrollera övertidsberäkning (50 %/70 %/100 %, notera förändring 1 april 2026: 35 % istf 50 %)
+- [ ] Beräkna semesterlön korrekt: **13 %** av semesterlöneunderlag, kontrollera garantibelopp
+- [ ] Kontrollera sjuklönenivå: **80 %** enligt lag (ej 90 %)
+- [ ] Kontrollera **anställningstidstillägg** (5 år vid samma företag)
+- [ ] Betala SAF-LO-premie och försäkringspremier till Fora
+- [ ] Bevaka avtalsperioden: **1 april 2025 – 31 mars 2027**
+
+### Handelns Tjänstemannaavtal (tjänstemän)
+- [ ] Kontrollera **lägsta löner** (21 767 kr / 23 927 kr fr.o.m. 1 maj 2025)
+- [ ] Tillämpa rätt **lönemodell** (bilaga 3, 4 eller 5)
+- [ ] Beräkna lönerevisionsutrymme korrekt (2,5 %/2,2 % eller 550 kr/520 kr garanti)
+- [ ] Tillämpa korrekt **arbetstidsmått**: 40 h/vecka, divisorer 94/72 för övertid
+- [ ] Beräkna förskjuten arbetstid korrekt (divisor 600/400/300/150)
+- [ ] Kontrollera sjuklön med lönegräns (10 × pbb / 12)
+- [ ] Semestertillägg: **0,8 %** fast + **0,5 %** rörlig
+- [ ] Betala ITP-premie till Collectum
+- [ ] Bevaka avtalsperioden: **1 maj 2025 – 30 april 2027**
 
 ---
 
@@ -557,25 +783,28 @@ Handelsavtalet tillåter lokal förhandling om:
 
 | Organisation | Webbplats | Roll |
 |-------------|-----------|------|
-| Handelsanställdas förbund (Handels) | [handels.se](https://www.handels.se) | Fackförbund; tolkningshjälp för anst. |
-| Svensk Handel | [svenskhandel.se](https://www.svenskhandel.se) | Arbetsgivarorganisation; tolkningshjälp för arbetsgivare |
-| Fora | [fora.se](https://www.fora.se) | SAF-LO-pension och AFA-försäkringar |
-| AFA Försäkring | [afaforsakring.se](https://www.afaforsakring.se) | AGS, TFA, TGL |
-| Medlingsinstitutet | [mi.se](https://www.mi.se) | Avtalsinformation och statistik |
-| Arbetsdomstolen | [arbetsdomstolen.se](https://www.arbetsdomstolen.se) | Domar och praxis om avtalstolkning |
+| Handelsanställdas förbund (Handels) | [handels.se](https://www.handels.se) | Fackförbund arbetare; tolkningshjälp |
+| Svensk Handel | [svenskhandel.se](https://www.svenskhandel.se) | Arbetsgivarorganisation |
+| Unionen | [unionen.se](https://www.unionen.se) | Tjänstemannafacket |
+| Akademikerförbunden | Via resp. förbund | Akademiker i handeln |
+| Fora | [fora.se](https://www.fora.se) | SAF-LO-pension och AFA-försäkringar (arbetare) |
+| Collectum | [collectum.se](https://www.collectum.se) | ITP-pension (tjänstemän) |
+| AFA Försäkring | [afaforsakring.se](https://www.afaforsakring.se) | AGS, TFA, TGL, FPT |
 
 ---
 
-## Källförteckning och vidare läsning
+## Källförteckning
 
-- **Handelsavtalet 2024–2026** (original): tillgängligt via handels.se och svenskhandel.se
-- Medlingsinstitutet – Avtalsdatabas: [mi.se/loner-och-avtal/avtalsdatabas](https://www.mi.se/loner-och-avtal/avtalsdatabas/)
-- Semesterlagen (1977:480): [riksdagen.se](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/semesterlag-1977480_sfs-1977-480)
-- Sjuklönelagen (1991:1047): [riksdagen.se](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/sjukloneslagen-19911047_sfs-1991-1047)
-- LAS (1982:80): [riksdagen.se](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-om-anstallningsskydd-198280_sfs-1982-80)
-- Socialavgiftslagen (2000:980): [riksdagen.se](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/socialavgiftslag-2000980_sfs-2000-980)
-- Inkomstskattelagen (1999:1229): [riksdagen.se](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/inkomstskattelag-19991229_sfs-1999-1229)
+- **Detaljhandelsavtalet 1 april 2025 – 31 mars 2027** (Svensk Handel / Handelsanställdas förbund)
+- **Handelns Tjänstemannaavtal 1 maj 2025 – 30 april 2027** (Svensk Handel / Unionen / Akademikerförbunden)
+- Semesterlagen (1977:480)
+- Sjuklönelagen (1991:1047)
+- LAS (1982:80)
+- Arbetstidslagen (1982:673)
+- Föräldraledighetslagen (1995:584)
+- Inkomstskattelagen (1999:1229)
 
-> **Notering**: Det fullständiga avtalsdokumentet med exakta belopp, bilagor och protokoll finns att ladda ned från Handels (handels.se) och Svensk Handel (svenskhandel.se). Vid tveksamheter om aktuella belopp – kontrollera alltid med de officiella avtalsparterna.
+> **Notering**: Fullständiga avtalsdokument finns tillgängliga via Svensk Handel (svenskhandel.se) och Handels (handels.se). Vid tveksamheter om exakta belopp – kontrollera alltid originalkällorna.
 
+*Uppdaterad från PDF-källorna: detaljhandelsavtalet-2025-2027.pdf och Handelns Tjänstemannaavtal 2025.05.01-2027.04.30.pdf*  
 *Senast uppdaterad: mars 2026*
