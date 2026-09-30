@@ -35,9 +35,8 @@ Välkommen till den svenska lönehantboken. Denna samling innehåller uppdaterad
 | Statlig inkomstskatt – gräns (skikt 1) | 643 100 kr/år (54 425 kr/mån) |
 | Statlig inkomstskatt – gräns (skikt 2, värnskatt avskaffad fr.o.m. 2020) | – |
 | Arbetsgivaravgift (standardsats) | 31,42 % |
-| Arbetsgivaravgift (ungdomar 15–18 år) | 10,21 % |
-| Sjuklöneperiod (dag 2–14) | 80 % av lön |
-| Karensavdrag | 20 % av genomsnittlig veckolön |
+| Sjuklöneperiod (dag 1–14) | 80 % av lön |
+| Karensavdrag | 20 % av genomsnittlig veckosjuklön |
 | Semesterdagar (lägsta lagstadgade) | 25 dagar/år |
 | Semestertillägg (kollektivavtal, vanligen) | 0,43–0,5 % per semesterdag |
 
@@ -45,14 +44,18 @@ Välkommen till den svenska lönehantboken. Denna samling innehåller uppdaterad
 
 ## Viktiga belopp 2026
 
-> **Obs:** Slutliga belopp för 2026 fastställs av Skatteverket och riksdagen under hösten 2025. Nedan är prognosvärden baserade på KPI-indexering och kända propositioner per mars 2026.
+Källa: [Skatteverket – Belopp och procent, inkomstår 2026](https://www.skatteverket.se/privat/skatter/beloppochprocent/2026)
 
-| Begrepp | Belopp (prognos/fastställt) |
-|---------|----------------------------|
-| Prisbasbelopp (PBB) | 60 300 kr |
-| Inkomstbasbelopp (IBB) | 83 000 kr (prognos) |
-| Statlig inkomstskatt – gräns (skikt 1) | ~660 000 kr/år |
-| Arbetsgivaravgift (standardsats) | 31,42 % |
+| Begrepp | Belopp |
+|---------|--------|
+| Prisbasbelopp (PBB) | 59 200 kr |
+| Förhöjt prisbasbelopp | 60 500 kr |
+| Inkomstbasbelopp (IBB) | 83 400 kr |
+| Statlig inkomstskatt – skiktgräns (beskattningsbar inkomst) | 643 000 kr/år |
+| Statlig inkomstskatt – brytpunkt (under 66 år, före grundavdrag) | 660 400 kr/år |
+| Arbetsgivaravgift (födda 1959 eller senare) | 31,42 % |
+| Arbetsgivaravgift (födda 2003–2007, fr.o.m. 1 april 2026) | 20,81 % upp till 25 000 kr/mån |
+| Arbetsgivaravgift (födda 1938–1958) | 10,21 % |
 
 ---
 

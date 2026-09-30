@@ -45,7 +45,7 @@ Statlig inkomstskatt tas ut på inkomst av tjänst som **överstiger** den fasts
 | År | Skiktgräns (inkomst/år) | Statlig skattesats |
 |----|------------------------|-------------------|
 | 2025 | 643 100 kr | 20 % |
-| 2026 | ca 660 000 kr (prognos) | 20 % |
+| 2026 | 643 000 kr (brytpunkt 660 400 kr före grundavdrag) | 20 % |
 
 > **Obs**: Värnskatten (25 % på inkomster >703 000 kr) avskaffades den 1 januari 2020. Sedan dess finns endast ett skikt för statlig inkomstskatt.
 

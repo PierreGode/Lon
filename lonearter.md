@@ -91,7 +91,7 @@ Jourlön är semestergrundande om den är regelbunden. Beredskapstillägg är ge
 
 | Löneart | Beskrivning | Påverkar SGI? |
 |---------|-------------|--------------|
-| Frånvaroavdrag sjuk dag 1 | Karensavdrag (20 % av veckolön) | Nej |
+| Karensavdrag | 20 % av genomsnittlig veckosjuklön (= 16 % av veckolön) | Nej |
 | Frånvaroavdrag ledig utan lön | Obetald ledighet | Nej |
 | Semesteravdrag (överdragen semester) | Dras från lön | – |
 
@@ -99,8 +99,8 @@ Jourlön är semestergrundande om den är regelbunden. Beredskapstillägg är ge
 
 | Löneart | Dagar | Ersättning |
 |---------|-------|-----------|
-| Karensavdrag | Dag 1 | 20 % av genomsnittlig veckolön dras av |
-| Sjuklön dag 2–14 | Dag 2–14 | 80 % av ordinarie lön |
+| Karensavdrag | En gång per sjukperiod | 20 % av genomsnittlig veckosjuklön dras av |
+| Sjuklön | Dag 1–14 | 80 % av ordinarie lön |
 
 Mer information: [Sjuklön och sjukskrivning](sjuklon-och-sjukskrivning.md)
 

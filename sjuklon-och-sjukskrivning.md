@@ -12,7 +12,9 @@ Sedan 2019 ersattes den tidigare **karensdagen** (som drogs en fast dag) med ett
 
 ### Beräkning av karensavdrag
 
-**Karensavdrag = 20 % av genomsnittlig veckolön**
+**Karensavdrag = 20 % av den sjuklön som den anställde beräknas få under en genomsnittlig vecka** (SjLL 6 §)
+
+Eftersom sjuklönen är 80 % av lönen motsvarar det **16 % av genomsnittlig veckolön**.
 
 Genomsnittlig veckolön beräknas utifrån:
 - **Fast månadslön**: Månadslön × 12 / 52
@@ -21,7 +23,8 @@ Genomsnittlig veckolön beräknas utifrån:
 
 **Exempel – fast månadslön 40 000 kr:**
 - Genomsnittlig veckolön = 40 000 × 12 / 52 = 9 230,77 kr
-- Karensavdrag = 9 230,77 × 20 % = 1 846,15 kr
+- Genomsnittlig veckosjuklön = 9 230,77 × 80 % = 7 384,62 kr
+- Karensavdrag = 7 384,62 × 20 % = 1 476,92 kr
 
 ### Varför karensavdrag istället för karensdag?
 
@@ -29,11 +32,11 @@ Systemet ändrades för att bli mer rättvist för deltidsarbetande. En hel kare
 
 ---
 
-## Sjuklön dag 2–14
+## Sjuklön dag 1–14
 
 ### Ersättningsnivå
 
-- **80 % av ordinarie lön** under sjuklöneperioden (dag 2–14)
+- **80 % av ordinarie lön** under sjuklöneperioden (dag 1–14), med avdrag för karensavdraget
 - Inkluderar lön och skattepliktiga förmåner
 
 ### Vad räknas som "ordinarie lön"?
@@ -54,7 +57,7 @@ Systemet ändrades för att bli mer rättvist för deltidsarbetande. En hel kare
 |------|-----------|
 | Ordinarie dagslön (40 000 kr / 21,75) | 1 839,08 kr |
 | Sjuklön (80 %) | 1 471,26 kr |
-| Karensavdrag (dag 1, -20 % av veckolön) | -1 846,15 kr |
+| Karensavdrag (20 % av veckosjuklön, dras en gång per sjukperiod) | -1 476,92 kr |
 
 ---
 
@@ -62,8 +65,7 @@ Systemet ändrades för att bli mer rättvist för deltidsarbetande. En hel kare
 
 | Dag | Vad händer |
 |-----|-----------|
-| Dag 1 | Karensavdrag (20 % av veckolön) – arbetsgivaren drar av |
-| Dag 2–14 | Arbetsgivaren betalar sjuklön = 80 % av lön |
+| Dag 1–14 | Arbetsgivaren betalar sjuklön = 80 % av lön, minus ett karensavdrag (20 % av veckosjuklönen) |
 | Dag 15+ | Försäkringskassan tar över (sjukpenning) |
 | Dag 180+ | Möjlig övergång till rehabiliteringsersättning |
 | Dag 365+ | Risk för utförsäkring; arbetsförmågebedömning mot normalt förekommande arbete |
