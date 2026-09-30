@@ -95,11 +95,11 @@ Denna sida är en samlad referens över de centrala lagar och förordningar som 
 
 ### Sjuklönelagen (SjLL) – SFS 1991:1047
 
-**Vad regleras:** Arbetsgivarens skyldighet att betala sjuklön dag 2–14, karensavdrag, sjukanmälan.
+**Vad regleras:** Arbetsgivarens skyldighet att betala sjuklön dag 1–14, karensavdrag, sjukanmälan.
 
 **Nyckelregler:**
-- Sjuklön = 80 % av ordinarie lön (dag 2–14)
-- Karensavdrag = 20 % av genomsnittlig veckolön (sedan 2019)
+- Sjuklön = 80 % av ordinarie lön (dag 1–14)
+- Karensavdrag = 20 % av genomsnittlig veckosjuklön (6 §, sedan 2019)
 - Läkarintyg från dag 8
 
 **Länk**: [riksdagen.se/SjLL](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/sjukloneslagen-19911047_sfs-1991-1047)

@@ -37,28 +37,28 @@ Avgiftsstrukturen är oförändrad för 2026. Eventuella justeringar annonseras 
 
 ## Reducerade arbetsgivaravgifter
 
-### Unga arbetstagare (15–18 år)
+Källa: [Skatteverket – arbetsgivaravgifter](https://skatteverket.se/arbetsgivaravgifter)
 
-För arbetstagare som **inte fyllt 18 år** vid årets ingång:
+| Född | 2025 | 2026 |
+|------|------|------|
+| 1959 eller senare | 31,42 % | 31,42 % |
+| 2003–2007 | 31,42 % | 20,81 % fr.o.m. 1 april (se nedan) |
+| 1938–1958 | 10,21 % | 10,21 % |
+| 1937 eller tidigare | 0 % | 0 % |
 
-- **Sats 2025: 10,21 %** (enbart ålderspensionsavgift)
-- Gäller löner upp till **25 000 kr/mån** per anställd
-- Löner överstigande 25 000 kr/mån: full avgift på den överskjutande delen
-- Reglering: Socialavgiftslagen (2000:980) 2 kap. 28 §
+### Unga arbetstagare (födda 2003–2007) – tillfälligt sänkt avgift
 
-### Unga arbetstagare (19–23 år) – sänkt avgift
+- **Sats: 20,81 %** (ålderspensionsavgift + halva övriga avgifter)
+- Gäller ersättning upp till **25 000 kr/mån** per anställd; **31,42 %** på överskjutande del
+- Gäller ersättning som betalas ut **1 april 2026 – 30 september 2027**
+- Januari–mars 2026: full avgift 31,42 %
 
-- **Sats 2025: 19,73 %**
-- Gäller löner t.o.m. månaden personen fyller 24 år
-- Gäller löner upp till **25 000 kr/mån** per anställd
-- Löner > 25 000 kr/mån: full avgift på överskjutande del
+> **Notering**: Anställda **födda 2008 eller senare** omfattas inte – full avgift 31,42 %. Det finns ingen särskild sats för 15–18-åringar. Det är födelseåret som avgör, inte åldern vid utbetalningen.
 
-> **Notering**: Denna nedsättning för 19–23-åringen innebär inte full befrielse – det rör sig om nedsättning jämfört med standardsatsen.
+### Äldre arbetstagare (födda 1938–1958)
 
-### Äldre arbetstagare (65–66 år och äldre)
-
-- Arbetstagare som **fyllt 66 år** före årets ingång: sats **10,21 %** (enbart ålderspensionsavgift 2025)
-- Reglering: Socialavgiftslagen (2000:980) 2 kap. 27 §
+- Sats **10,21 %** (enbart ålderspensionsavgift)
+- Födda 1937 eller tidigare: ingen arbetsgivaravgift
 
 ### Forskning och utveckling (FoU)
 
